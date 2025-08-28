@@ -2,6 +2,8 @@
 
 Uradni večinski arhiv testov iz BežiAppa, preden je ta zaprl svoja vrata.
 
+Določenih testov nisem naložil, ker nisem bil prepričan, če bi avtor podal soglasje (verjetno ja, ampak vseeno raje nisem).
+
 ## Podobne spletne strani s testi
 - Lira Jurkovič ima arhiv svojih testov: https://github.com/lirajurkovic/bezi-testi
 
